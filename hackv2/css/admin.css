@@ -1,0 +1,24 @@
+body{
+	height: 100%
+	border:2px dotted;
+}
+.lb{
+  background-color: #cbf5eb;
+  padding:0.5em;
+  margin-top: -1.3em;
+}
+.passBox{
+	width:35%;
+	background-color: #d3d3d36e;
+	padding:10px;
+	margin-top:5%;
+}
+.boxlabel{
+	background-color: #ff030399;
+	margin-top: -1.5em;
+	margin-left: -0.7em;
+	margin-right: -0.7em;
+	padding: 10px;
+	color: #FFF;
+	box-shadow: 0px 5px 5px #888888;
+}

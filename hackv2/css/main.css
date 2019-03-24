@@ -1,0 +1,39 @@
+
+#afterText{
+	padding-top: 180px;
+	font-weight: bold;
+	font-style: italic;
+}
+#login-form,#registration-form{
+	padding: 30px;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+.errMsg{
+	color:red;
+}
+#instructions{
+	background-color: #80800082;
+	color: maroon;
+	padding: 5px;
+	margin: 2%;
+}
+#ack{
+	border:5px dashed white;
+	border-style: double;
+	color: maroon;
+	padding: 5px;
+	padding-left: 20px;
+	margin: 2%;
+}
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 576px) {
+    #afterText {
+        padding-top:5px;
+    }
+}
+@media screen and (max-width: 375px){
+	#eventName{
+		max-width:180px;
+	}
+}
