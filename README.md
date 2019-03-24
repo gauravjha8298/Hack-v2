@@ -14,8 +14,8 @@ The topics covered are
 
 Key Features
 --------------
-#Admin Panel
-#Leaderboard
+1. Admin Panel
+2. Leaderboard
 
 
 HOW TO INSTALL
